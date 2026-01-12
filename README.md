@@ -6,7 +6,7 @@ This repository contains code for inverting S-wave velocity profiles from surfac
 
 The repository contains three main Python scripts corresponding to different components of the study:
 
- 1. `train_fft_frft_cnn.py`
+ 1. `Train_fft_frft_cnn.py`
 
 Purpose:
 
@@ -25,7 +25,7 @@ Compares validation loss across transforms
 Identifies optimal fractional order based on minimum MSE
 
 
-2. `frft_dispersion_visualization.py`
+2. `Frft_dispersion_visualization.py`
 
 Purpose:
 
@@ -40,7 +40,7 @@ Generates dispersion representations for selected rotation angles
 Illustrates the transition from physical to fractional domains
 
 
-3. `noise_sensitivity_analysis.py`
+3. `Noise_sensitivity_analysis.py`
 
 Purpose:
 
